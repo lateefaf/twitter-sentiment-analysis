@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$" />
+    <orderEntry type="jdk" jdkName="Python 3.11 (untitled)" jdkType="Python SDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library" exported="">
+      <library name="kafka">
+        <CLASSES />
+        <JAVADOC />
+        <SOURCES>
+          <root url="file://$MODULE_DIR$/../kafka-3.4.1-src/kafka-3.4.1-src/clients/src/main/java" />
+          <root url="file://$MODULE_DIR$/../kafka-3.4.1-src/kafka-3.4.1-src/clients/src/test/java" />
+          <root url="file://$MODULE_DIR$/../kafka-3.4.1-src/kafka-3.4.1-src/connect/api/src/main/java" />
+          <root url="file://$MODULE_DIR$/../kafka-3.4.1-src/kafka-3.4.1-src/connect/api/src/test/java" />
+          <root url="file://$MODULE_DIR$/../kafka-3.4.1-src/kafka-3.4.1-src/connect/basic-auth-extension/src/main/java" />
+          <root url="file://$MODULE_DIR$/../kafka-3.4.1-src/kafka-3.4.1-src/connect/basic-auth-extension/src/test/java" />
+          <root url="file://$MODULE_DIR$/../kafka-3.4.1-src/kafka-3.4.1-src/connect/file/src/main/java" />
+          <root url="file://$MODULE_DIR$/../kafka-3.4.1-src/kafka-3.4.1-src/connect/file/src/test/java" />
+          <root url="file://$MODULE_DIR$/../kafka-3.4.1-src/kafka-3.4.1-src/connect/json/src/main/java" />
+          <root url="file://$MODULE_DIR$/../kafka-3.4.1-src/kafka-3.4.1-src/connect/json/src/test/java" />
+          <root url="file://$MODULE_DIR$/../kafka-3.4.1-src/kafka-3.4.1-src/connect/mirror-client/src/main/java" />
+          <root url="file://$MODULE_DIR$/../kafka-3.4.1-src/kafka-3.4.1-src/connect/mirror-client/src/test/java" />
+          <root url="file://$MODULE_DIR$/../kafka-3.4.1-src/kafka-3.4.1-src/connect/mirror/src/main/java" />
+          <root url="file://$MODULE_DIR$/../kafka-3.4.1-src/kafka-3.4.1-src/connect/mirror/src/test/java" />
+          <root url="file://$MODULE_DIR$/../kafka-3.4.1-src/kafka-3.4.1-src/connect/runtime/src/main/java" />
+          <root url="file://$MODULE_DIR$/../kafka-3.4.1-src/kafka-3.4.1-src/connect/runtime/src/test/java" />
+          <root url="file://$MODULE_DIR$/../kafka-3.4.1-src/kafka-3.4.1-src/connect/runtime/src/test/resources/test-plugins/aliased-static-field" />
+          <root url="file://$MODULE_DIR$/../kafka-3.4.1-src/kafka-3.4.1-src/connect/runtime/src/test/resources/test-plugins/always-throw-exception" />
+          <root url="file://$MODULE_DIR$/../kafka-3.4.1-src/kafka-3.4.1-src/connect/runtime/src/test/resources/test-plugins/bad-packaging" />
+          <root url="file://$MODULE_DIR$/../kafka-3.4.1-src/kafka-3.4.1-src/connect/runtime/src/test/resources/test-plugins/multiple-plugins-in-jar" />
+          <root url="file://$MODULE_DIR$/../kafka-3.4.1-src/kafka-3.4.1-src/connect/runtime/src/test/resources/test-plugins/read-version-from-resource-v1" />
+          <root url="file://$MODULE_DIR$/../kafka-3.4.1-src/kafka-3.4.1-src/connect/runtime/src/test/resources/test-plugins/read-version-from-resource-v2" />
+          <root url="file://$MODULE_DIR$/../kafka-3.4.1-src/kafka-3.4.1-src/connect/runtime/src/test/resources/test-plugins/sampling-config-provider" />
+          <root url="file://$MODULE_DIR$/../kafka-3.4.1-src/kafka-3.4.1-src/connect/runtime/src/test/resources/test-plugins/sampling-configurable" />
+          <root url="file://$MODULE_DIR$/../kafka-3.4.1-src/kafka-3.4.1-src/connect/runtime/src/test/resources/test-plugins/sampling-converter" />
+          <root url="file://$MODULE_DIR$/../kafka-3.4.1-src/kafka-3.4.1-src/connect/runtime/src/test/resources/test-plugins/sampling-header-converter" />
+          <root url="file://$MODULE_DIR$/../kafka-3.4.1-src/kafka-3.4.1-src/connect/runtime/src/test/resources/test-plugins/service-loader" />
+          <root url="file://$MODULE_DIR$/../kafka-3.4.1-src/kafka-3.4.1-src/connect/transforms/src/main/java" />
+          <root url="file://$MODULE_DIR$/../kafka-3.4.1-src/kafka-3.4.1-src/connect/transforms/src/test/java" />
+          <root url="file://$MODULE_DIR$/../kafka-3.4.1-src/kafka-3.4.1-src/core/src/main/java" />
+          <root url="file://$MODULE_DIR$/../kafka-3.4.1-src/kafka-3.4.1-src/core/src/main/scala" />
+          <root url="file://$MODULE_DIR$/../kafka-3.4.1-src/kafka-3.4.1-src/core/src/test/java" />
+          <root url="file://$MODULE_DIR$/../kafka-3.4.1-src/kafka-3.4.1-src/examples/src/main/java" />
+          <root url="file://$MODULE_DIR$/../kafka-3.4.1-src/kafka-3.4.1-src/generator/src/main/java" />
+          <root url="file://$MODULE_DIR$/../kafka-3.4.1-src/kafka-3.4.1-src/generator/src/test/java" />
+          <root url="file://$MODULE_DIR$/../kafka-3.4.1-src/kafka-3.4.1-src/group-coordinator/src/main/java" />
+          <root url="file://$MODULE_DIR$/../kafka-3.4.1-src/kafka-3.4.1-src/jmh-benchmarks/src/main/java" />
+          <root url="file://$MODULE_DIR$/../kafka-3.4.1-src/kafka-3.4.1-src/log4j-appender/src/main/java" />
+          <root url="file://$MODULE_DIR$/../kafka-3.4.1-src/kafka-3.4.1-src/log4j-appender/src/test/java" />
+          <root url="file://$MODULE_DIR$/../kafka-3.4.1-src/kafka-3.4.1-src/metadata/src/main/java" />
+          <root url="file://$MODULE_DIR$/../kafka-3.4.1-src/kafka-3.4.1-src/metadata/src/test/java" />
+          <root url="file://$MODULE_DIR$/../kafka-3.4.1-src/kafka-3.4.1-src/raft/src/main/java" />
+          <root url="file://$MODULE_DIR$/../kafka-3.4.1-src/kafka-3.4.1-src/raft/src/test/java" />
+          <root url="file://$MODULE_DIR$/../kafka-3.4.1-src/kafka-3.4.1-src/server-common/src/main/java" />
+          <root url="file://$MODULE_DIR$/../kafka-3.4.1-src/kafka-3.4.1-src/server-common/src/test/java" />
+          <root url="file://$MODULE_DIR$/../kafka-3.4.1-src/kafka-3.4.1-src/shell/src/main/java" />
+          <root url="file://$MODULE_DIR$/../kafka-3.4.1-src/kafka-3.4.1-src/shell/src/test/java" />
+          <root url="file://$MODULE_DIR$/../kafka-3.4.1-src/kafka-3.4.1-src/storage/api/src/main/java" />
+          <root url="file://$MODULE_DIR$/../kafka-3.4.1-src/kafka-3.4.1-src/storage/api/src/test/java" />
+          <root url="file://$MODULE_DIR$/../kafka-3.4.1-src/kafka-3.4.1-src/storage/src/main/java" />
+          <root url="file://$MODULE_DIR$/../kafka-3.4.1-src/kafka-3.4.1-src/storage/src/test/java" />
+          <root url="file://$MODULE_DIR$/../kafka-3.4.1-src/kafka-3.4.1-src/streams/examples/src/main/java" />
+          <root url="file://$MODULE_DIR$/../kafka-3.4.1-src/kafka-3.4.1-src/streams/examples/src/test/java" />
+          <root url="file://$MODULE_DIR$/../kafka-3.4.1-src/kafka-3.4.1-src/streams/src/main/java" />
+          <root url="file://$MODULE_DIR$/../kafka-3.4.1-src/kafka-3.4.1-src/streams/src/test/java" />
+          <root url="file://$MODULE_DIR$/../kafka-3.4.1-src/kafka-3.4.1-src/streams/test-utils/src/main/java" />
+          <root url="file://$MODULE_DIR$/../kafka-3.4.1-src/kafka-3.4.1-src/streams/test-utils/src/test/java" />
+          <root url="file://$MODULE_DIR$/../kafka-3.4.1-src/kafka-3.4.1-src/streams/upgrade-system-tests-0100/src/test/java" />
+          <root url="file://$MODULE_DIR$/../kafka-3.4.1-src/kafka-3.4.1-src/streams/upgrade-system-tests-0101/src/test/java" />
+          <root url="file://$MODULE_DIR$/../kafka-3.4.1-src/kafka-3.4.1-src/streams/upgrade-system-tests-0102/src/test/java" />
+          <root url="file://$MODULE_DIR$/../kafka-3.4.1-src/kafka-3.4.1-src/streams/upgrade-system-tests-0110/src/test/java" />
+          <root url="file://$MODULE_DIR$/../kafka-3.4.1-src/kafka-3.4.1-src/streams/upgrade-system-tests-10/src/test/java" />
+          <root url="file://$MODULE_DIR$/../kafka-3.4.1-src/kafka-3.4.1-src/streams/upgrade-system-tests-11/src/test/java" />
+          <root url="file://$MODULE_DIR$/../kafka-3.4.1-src/kafka-3.4.1-src/streams/upgrade-system-tests-20/src/test/java" />
+          <root url="file://$MODULE_DIR$/../kafka-3.4.1-src/kafka-3.4.1-src/streams/upgrade-system-tests-21/src/test/java" />
+          <root url="file://$MODULE_DIR$/../kafka-3.4.1-src/kafka-3.4.1-src/streams/upgrade-system-tests-22/src/test/java" />
+          <root url="file://$MODULE_DIR$/../kafka-3.4.1-src/kafka-3.4.1-src/streams/upgrade-system-tests-23/src/test/java" />
+          <root url="file://$MODULE_DIR$/../kafka-3.4.1-src/kafka-3.4.1-src/streams/upgrade-system-tests-24/src/test/java" />
+          <root url="file://$MODULE_DIR$/../kafka-3.4.1-src/kafka-3.4.1-src/streams/upgrade-system-tests-25/src/test/java" />
+          <root url="file://$MODULE_DIR$/../kafka-3.4.1-src/kafka-3.4.1-src/streams/upgrade-system-tests-26/src/test/java" />
+          <root url="file://$MODULE_DIR$/../kafka-3.4.1-src/kafka-3.4.1-src/streams/upgrade-system-tests-27/src/test/java" />
+          <root url="file://$MODULE_DIR$/../kafka-3.4.1-src/kafka-3.4.1-src/streams/upgrade-system-tests-28/src/test/java" />
+          <root url="file://$MODULE_DIR$/../kafka-3.4.1-src/kafka-3.4.1-src/streams/upgrade-system-tests-30/src/test/java" />
+          <root url="file://$MODULE_DIR$/../kafka-3.4.1-src/kafka-3.4.1-src/streams/upgrade-system-tests-31/src/test/java" />
+          <root url="file://$MODULE_DIR$/../kafka-3.4.1-src/kafka-3.4.1-src/streams/upgrade-system-tests-32/src/test/java" />
+          <root url="file://$MODULE_DIR$/../kafka-3.4.1-src/kafka-3.4.1-src/streams/upgrade-system-tests-33/src/test/java" />
+          <root url="file://$MODULE_DIR$/../kafka-3.4.1-src/kafka-3.4.1-src/tools/src/main/java" />
+          <root url="file://$MODULE_DIR$/../kafka-3.4.1-src/kafka-3.4.1-src/tools/src/test/java" />
+          <root url="file://$MODULE_DIR$/../kafka-3.4.1-src/kafka-3.4.1-src/trogdor/src/main/java" />
+          <root url="file://$MODULE_DIR$/../kafka-3.4.1-src/kafka-3.4.1-src/trogdor/src/test/java" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library name="flink">
+        <CLASSES />
+        <JAVADOC />
+        <NATIVE>
+          <root url="file://$MODULE_DIR$/../flink-1.17.1" />
+        </NATIVE>
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library name="hadoop">
+        <CLASSES />
+        <JAVADOC />
+        <SOURCES>
+          <root url="file://$MODULE_DIR$/../hadoop-3.3.5-src/hadoop-client-modules/hadoop-client-integration-tests/src/test/java" />
+          <root url="file://$MODULE_DIR$/../hadoop-3.3.5-src/hadoop-cloud-storage-project/hadoop-cos/src/main/java" />
+          <root url="file://$MODULE_DIR$/../hadoop-3.3.5-src/hadoop-cloud-storage-project/hadoop-cos/src/test/java" />
+          <root url="file://$MODULE_DIR$/../hadoop-3.3.5-src/hadoop-common-project/hadoop-annotations/src/main/java" />
+          <root url="file://$MODULE_DIR$/../hadoop-3.3.5-src/hadoop-common-project/hadoop-auth-examples/src/main/java" />
+          <root url="file://$MODULE_DIR$/../hadoop-3.3.5-src/hadoop-common-project/hadoop-auth/src/main/java" />
+          <root url="file://$MODULE_DIR$/../hadoop-3.3.5-src/hadoop-common-project/hadoop-auth/src/test/java" />
+          <root url="file://$MODULE_DIR$/../hadoop-3.3.5-src/hadoop-common-project/hadoop-common/dev-support/jdiff" />
+          <root url="file://$MODULE_DIR$/../hadoop-3.3.5-src/hadoop-common-project/hadoop-common/src/main/arm-java" />
+          <root url="file://$MODULE_DIR$/../hadoop-3.3.5-src/hadoop-common-project/hadoop-common/src/main/java" />
+          <root url="file://$MODULE_DIR$/../hadoop-3.3.5-src/hadoop-common-project/hadoop-common/src/test/arm-java" />
+          <root url="file://$MODULE_DIR$/../hadoop-3.3.5-src/hadoop-common-project/hadoop-common/src/test/java" />
+          <root url="file://$MODULE_DIR$/../hadoop-3.3.5-src/hadoop-common-project/hadoop-kms/src/main/java" />
+          <root url="file://$MODULE_DIR$/../hadoop-3.3.5-src/hadoop-common-project/hadoop-kms/src/test/java" />
+          <root url="file://$MODULE_DIR$/../hadoop-3.3.5-src/hadoop-common-project/hadoop-minikdc/src/main/java" />
+          <root url="file://$MODULE_DIR$/../hadoop-3.3.5-src/hadoop-common-project/hadoop-minikdc/src/test/java" />
+          <root url="file://$MODULE_DIR$/../hadoop-3.3.5-src/hadoop-common-project/hadoop-nfs/src/main/java" />
+          <root url="file://$MODULE_DIR$/../hadoop-3.3.5-src/hadoop-common-project/hadoop-nfs/src/test/java" />
+          <root url="file://$MODULE_DIR$/../hadoop-3.3.5-src/hadoop-common-project/hadoop-registry/src/main/java" />
+          <root url="file://$MODULE_DIR$/../hadoop-3.3.5-src/hadoop-common-project/hadoop-registry/src/test/java" />
+          <root url="file://$MODULE_DIR$/../hadoop-3.3.5-src/hadoop-hdfs-project/hadoop-hdfs-client/src/main/java" />
+          <root url="file://$MODULE_DIR$/../hadoop-3.3.5-src/hadoop-hdfs-project/hadoop-hdfs-client/src/test/java" />
+          <root url="file://$MODULE_DIR$/../hadoop-3.3.5-src/hadoop-hdfs-project/hadoop-hdfs-httpfs/src/main/java" />
+          <root url="file://$MODULE_DIR$/../hadoop-3.3.5-src/hadoop-hdfs-project/hadoop-hdfs-httpfs/src/test/java" />
+          <root url="file://$MODULE_DIR$/../hadoop-3.3.5-src/hadoop-hdfs-project/hadoop-hdfs-native-client/src/main/native/fuse-dfs/test" />
+          <root url="file://$MODULE_DIR$/../hadoop-3.3.5-src/hadoop-hdfs-project/hadoop-hdfs-nfs/src/main/java" />
+          <root url="file://$MODULE_DIR$/../hadoop-3.3.5-src/hadoop-hdfs-project/hadoop-hdfs-nfs/src/test/java" />
+          <root url="file://$MODULE_DIR$/../hadoop-3.3.5-src/hadoop-hdfs-project/hadoop-hdfs-rbf/src/main/java" />
+          <root url="file://$MODULE_DIR$/../hadoop-3.3.5-src/hadoop-hdfs-project/hadoop-hdfs-rbf/src/test/java" />
+          <root url="file://$MODULE_DIR$/../hadoop-3.3.5-src/hadoop-hdfs-project/hadoop-hdfs/dev-support/jdiff" />
+          <root url="file://$MODULE_DIR$/../hadoop-3.3.5-src/hadoop-hdfs-project/hadoop-hdfs/src/main/java" />
+          <root url="file://$MODULE_DIR$/../hadoop-3.3.5-src/hadoop-hdfs-project/hadoop-hdfs/src/test/java" />
+          <root url="file://$MODULE_DIR$/../hadoop-3.3.5-src/hadoop-mapreduce-project/dev-support/jdiff" />
+          <root url="file://$MODULE_DIR$/../hadoop-3.3.5-src/hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-app/src/main/java" />
+          <root url="file://$MODULE_DIR$/../hadoop-3.3.5-src/hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-app/src/test/java" />
+          <root url="file://$MODULE_DIR$/../hadoop-3.3.5-src/hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-common/src/main/java" />
+          <root url="file://$MODULE_DIR$/../hadoop-3.3.5-src/hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-common/src/test/java" />
+          <root url="file://$MODULE_DIR$/../hadoop-3.3.5-src/hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-core/src/main/java" />
+          <root url="file://$MODULE_DIR$/../hadoop-3.3.5-src/hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-core/src/test/java" />
+          <root url="file://$MODULE_DIR$/../hadoop-3.3.5-src/hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-hs-plugins/src/main/java" />
+          <root url="file://$MODULE_DIR$/../hadoop-3.3.5-src/hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-hs-plugins/src/test/java" />
+          <root url="file://$MODULE_DIR$/../hadoop-3.3.5-src/hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-hs/src/main/java" />
+          <root url="file://$MODULE_DIR$/../hadoop-3.3.5-src/hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-hs/src/test/java" />
+          <root url="file://$MODULE_DIR$/../hadoop-3.3.5-src/hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-jobclient/src/main/java" />
+          <root url="file://$MODULE_DIR$/../hadoop-3.3.5-src/hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-jobclient/src/test/java" />
+          <root url="file://$MODULE_DIR$/../hadoop-3.3.5-src/hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-nativetask/src/main/java" />
+          <root url="file://$MODULE_DIR$/../hadoop-3.3.5-src/hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-nativetask/src/test/java" />
+          <root url="file://$MODULE_DIR$/../hadoop-3.3.5-src/hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-shuffle/src/main/java" />
+          <root url="file://$MODULE_DIR$/../hadoop-3.3.5-src/hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-shuffle/src/test/java" />
+          <root url="file://$MODULE_DIR$/../hadoop-3.3.5-src/hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-uploader/src/main/java" />
+          <root url="file://$MODULE_DIR$/../hadoop-3.3.5-src/hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-uploader/src/test/java" />
+          <root url="file://$MODULE_DIR$/../hadoop-3.3.5-src/hadoop-mapreduce-project/hadoop-mapreduce-examples/src/main/java" />
+          <root url="file://$MODULE_DIR$/../hadoop-3.3.5-src/hadoop-mapreduce-project/hadoop-mapreduce-examples/src/test/java" />
+          <root url="file://$MODULE_DIR$/../hadoop-3.3.5-src/hadoop-maven-plugins/src/main/java" />
+          <root url="file://$MODULE_DIR$/../hadoop-3.3.5-src/hadoop-tools/hadoop-aliyun/src/main/java" />
+          <root url="file://$MODULE_DIR$/../hadoop-3.3.5-src/hadoop-tools/hadoop-aliyun/src/test/java" />
+          <root url="file://$MODULE_DIR$/../hadoop-3.3.5-src/hadoop-tools/hadoop-archive-logs/src/main/java" />
+          <root url="file://$MODULE_DIR$/../hadoop-3.3.5-src/hadoop-tools/hadoop-archive-logs/src/test/java" />
+          <root url="file://$MODULE_DIR$/../hadoop-3.3.5-src/hadoop-tools/hadoop-archives/src/main/java" />
+          <root url="file://$MODULE_DIR$/../hadoop-3.3.5-src/hadoop-tools/hadoop-archives/src/test/java" />
+          <root url="file://$MODULE_DIR$/../hadoop-3.3.5-src/hadoop-tools/hadoop-aws/src/main/java" />
+          <root url="file://$MODULE_DIR$/../hadoop-3.3.5-src/hadoop-tools/hadoop-aws/src/test/java" />
+          <root url="file://$MODULE_DIR$/../hadoop-3.3.5-src/hadoop-tools/hadoop-azure-datalake/src/main/java" />
+          <root url="file://$MODULE_DIR$/../hadoop-3.3.5-src/hadoop-tools/hadoop-azure-datalake/src/test/java" />
+          <root url="file://$MODULE_DIR$/../hadoop-3.3.5-src/hadoop-tools/hadoop-azure/src/main/java" />
+          <root url="file://$MODULE_DIR$/../hadoop-3.3.5-src/hadoop-tools/hadoop-azure/src/test/java" />
+          <root url="file://$MODULE_DIR$/../hadoop-3.3.5-src/hadoop-tools/hadoop-benchmark/src/main/java" />
+          <root url="file://$MODULE_DIR$/../hadoop-3.3.5-src/hadoop-tools/hadoop-datajoin/src/main/java" />
+          <root url="file://$MODULE_DIR$/../hadoop-3.3.5-src/hadoop-tools/hadoop-datajoin/src/test/java" />
+          <root url="file://$MODULE_DIR$/../hadoop-3.3.5-src/hadoop-tools/hadoop-distcp/src/main/java" />
+          <root url="file://$MODULE_DIR$/../hadoop-3.3.5-src/hadoop-tools/hadoop-distcp/src/test/java" />
+          <root url="file://$MODULE_DIR$/../hadoop-3.3.5-src/hadoop-tools/hadoop-dynamometer/hadoop-dynamometer-blockgen/src/main/java" />
+          <root url="file://$MODULE_DIR$/../hadoop-3.3.5-src/hadoop-tools/hadoop-dynamometer/hadoop-dynamometer-blockgen/src/test/java" />
+          <root url="file://$MODULE_DIR$/../hadoop-3.3.5-src/hadoop-tools/hadoop-dynamometer/hadoop-dynamometer-infra/src/main/java" />
+          <root url="file://$MODULE_DIR$/../hadoop-3.3.5-src/hadoop-tools/hadoop-dynamometer/hadoop-dynamometer-infra/src/test/java" />
+          <root url="file://$MODULE_DIR$/../hadoop-3.3.5-src/hadoop-tools/hadoop-dynamometer/hadoop-dynamometer-workload/src/main/java" />
+          <root url="file://$MODULE_DIR$/../hadoop-3.3.5-src/hadoop-tools/hadoop-dynamometer/hadoop-dynamometer-workload/src/test/java" />
+          <root url="file://$MODULE_DIR$/../hadoop-3.3.5-src/hadoop-tools/hadoop-extras/src/main/java" />
+          <root url="file://$MODULE_DIR$/../hadoop-3.3.5-src/hadoop-tools/hadoop-extras/src/test/java" />
+          <root url="file://$MODULE_DIR$/../hadoop-3.3.5-src/hadoop-tools/hadoop-fs2img/src/main/java" />
+          <root url="file://$MODULE_DIR$/../hadoop-3.3.5-src/hadoop-tools/hadoop-fs2img/src/test/java" />
+          <root url="file://$MODULE_DIR$/../hadoop-3.3.5-src/hadoop-tools/hadoop-gridmix/src/main/java" />
+          <root url="file://$MODULE_DIR$/../hadoop-3.3.5-src/hadoop-tools/hadoop-gridmix/src/test/java" />
+          <root url="file://$MODULE_DIR$/../hadoop-3.3.5-src/hadoop-tools/hadoop-kafka/src/main/java" />
+          <root url="file://$MODULE_DIR$/../hadoop-3.3.5-src/hadoop-tools/hadoop-kafka/src/test/java" />
+          <root url="file://$MODULE_DIR$/../hadoop-3.3.5-src/hadoop-tools/hadoop-resourceestimator/src/main/java" />
+          <root url="file://$MODULE_DIR$/../hadoop-3.3.5-src/hadoop-tools/hadoop-resourceestimator/src/test/java" />
+          <root url="file://$MODULE_DIR$/../hadoop-3.3.5-src/hadoop-tools/hadoop-rumen/src/main/java" />
+          <root url="file://$MODULE_DIR$/../hadoop-3.3.5-src/hadoop-tools/hadoop-rumen/src/test/java" />
+          <root url="file://$MODULE_DIR$/../hadoop-3.3.5-src/hadoop-tools/hadoop-sls/src/main/java" />
+          <root url="file://$MODULE_DIR$/../hadoop-3.3.5-src/hadoop-tools/hadoop-sls/src/test/java" />
+          <root url="file://$MODULE_DIR$/../hadoop-3.3.5-src/hadoop-tools/hadoop-streaming/src/main/java" />
+          <root url="file://$MODULE_DIR$/../hadoop-3.3.5-src/hadoop-tools/hadoop-streaming/src/test/java" />
+          <root url="file://$MODULE_DIR$/../hadoop-3.3.5-src/hadoop-yarn-project/hadoop-yarn/dev-support/jdiff" />
+          <root url="file://$MODULE_DIR$/../hadoop-3.3.5-src/hadoop-yarn-project/hadoop-yarn/hadoop-yarn-api/src/main/java" />
+          <root url="file://$MODULE_DIR$/../hadoop-3.3.5-src/hadoop-yarn-project/hadoop-yarn/hadoop-yarn-api/src/test/java" />
+          <root url="file://$MODULE_DIR$/../hadoop-3.3.5-src/hadoop-yarn-project/hadoop-yarn/hadoop-yarn-applications/hadoop-yarn-applications-catalog/hadoop-yarn-applications-catalog-webapp/src/main/java" />
+          <root url="file://$MODULE_DIR$/../hadoop-3.3.5-src/hadoop-yarn-project/hadoop-yarn/hadoop-yarn-applications/hadoop-yarn-applications-catalog/hadoop-yarn-applications-catalog-webapp/src/test/java" />
+          <root url="file://$MODULE_DIR$/../hadoop-3.3.5-src/hadoop-yarn-project/hadoop-yarn/hadoop-yarn-applications/hadoop-yarn-applications-distributedshell/src/main/java" />
+          <root url="file://$MODULE_DIR$/../hadoop-3.3.5-src/hadoop-yarn-project/hadoop-yarn/hadoop-yarn-applications/hadoop-yarn-applications-distributedshell/src/test/java" />
+          <root url="file://$MODULE_DIR$/../hadoop-3.3.5-src/hadoop-yarn-project/hadoop-yarn/hadoop-yarn-applications/hadoop-yarn-applications-mawo/hadoop-yarn-applications-mawo-core/src/main/java" />
+          <root url="file://$MODULE_DIR$/../hadoop-3.3.5-src/hadoop-yarn-project/hadoop-yarn/hadoop-yarn-applications/hadoop-yarn-applications-mawo/hadoop-yarn-applications-mawo-core/src/test/java" />
+          <root url="file://$MODULE_DIR$/../hadoop-3.3.5-src/hadoop-yarn-project/hadoop-yarn/hadoop-yarn-applications/hadoop-yarn-applications-unmanaged-am-launcher/src/main/java" />
+          <root url="file://$MODULE_DIR$/../hadoop-3.3.5-src/hadoop-yarn-project/hadoop-yarn/hadoop-yarn-applications/hadoop-yarn-applications-unmanaged-am-launcher/src/test/java" />
+          <root url="file://$MODULE_DIR$/../hadoop-3.3.5-src/hadoop-yarn-project/hadoop-yarn/hadoop-yarn-applications/hadoop-yarn-services/hadoop-yarn-services-api/src/main/java" />
+          <root url="file://$MODULE_DIR$/../hadoop-3.3.5-src/hadoop-yarn-project/hadoop-yarn/hadoop-yarn-applications/hadoop-yarn-services/hadoop-yarn-services-api/src/test/java" />
+          <root url="file://$MODULE_DIR$/../hadoop-3.3.5-src/hadoop-yarn-project/hadoop-yarn/hadoop-yarn-applications/hadoop-yarn-services/hadoop-yarn-services-core/src/main/java" />
+          <root url="file://$MODULE_DIR$/../hadoop-3.3.5-src/hadoop-yarn-project/hadoop-yarn/hadoop-yarn-applications/hadoop-yarn-services/hadoop-yarn-services-core/src/test/java" />
+          <root url="file://$MODULE_DIR$/../hadoop-3.3.5-src/hadoop-yarn-project/hadoop-yarn/hadoop-yarn-client/src/main/java" />
+          <root url="file://$MODULE_DIR$/../hadoop-3.3.5-src/hadoop-yarn-project/hadoop-yarn/hadoop-yarn-client/src/test/java" />
+          <root url="file://$MODULE_DIR$/../hadoop-3.3.5-src/hadoop-yarn-project/hadoop-yarn/hadoop-yarn-common/src/main/java" />
+          <root url="file://$MODULE_DIR$/../hadoop-3.3.5-src/hadoop-yarn-project/hadoop-yarn/hadoop-yarn-common/src/test/java" />
+          <root url="file://$MODULE_DIR$/../hadoop-3.3.5-src/hadoop-yarn-project/hadoop-yarn/hadoop-yarn-csi/src/main/java" />
+          <root url="file://$MODULE_DIR$/../hadoop-3.3.5-src/hadoop-yarn-project/hadoop-yarn/hadoop-yarn-csi/src/test/java" />
+          <root url="file://$MODULE_DIR$/../hadoop-3.3.5-src/hadoop-yarn-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-applicationhistoryservice/src/main/java" />
+          <root url="file://$MODULE_DIR$/../hadoop-3.3.5-src/hadoop-yarn-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-applicationhistoryservice/src/test/java" />
+          <root url="file://$MODULE_DIR$/../hadoop-3.3.5-src/hadoop-yarn-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-common/src/main/java" />
+          <root url="file://$MODULE_DIR$/../hadoop-3.3.5-src/hadoop-yarn-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-common/src/test/java" />
+          <root url="file://$MODULE_DIR$/../hadoop-3.3.5-src/hadoop-yarn-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-nodemanager/src/main/java" />
+          <root url="file://$MODULE_DIR$/../hadoop-3.3.5-src/hadoop-yarn-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-nodemanager/src/test/java" />
+          <root url="file://$MODULE_DIR$/../hadoop-3.3.5-src/hadoop-yarn-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-resourcemanager/src/main/java" />
+          <root url="file://$MODULE_DIR$/../hadoop-3.3.5-src/hadoop-yarn-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-resourcemanager/src/test/java" />
+          <root url="file://$MODULE_DIR$/../hadoop-3.3.5-src/hadoop-yarn-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-router/src/main/java" />
+          <root url="file://$MODULE_DIR$/../hadoop-3.3.5-src/hadoop-yarn-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-router/src/test/java" />
+          <root url="file://$MODULE_DIR$/../hadoop-3.3.5-src/hadoop-yarn-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-sharedcachemanager/src/main/java" />
+          <root url="file://$MODULE_DIR$/../hadoop-3.3.5-src/hadoop-yarn-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-sharedcachemanager/src/test/java" />
+          <root url="file://$MODULE_DIR$/../hadoop-3.3.5-src/hadoop-yarn-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-tests/src/test/java" />
+          <root url="file://$MODULE_DIR$/../hadoop-3.3.5-src/hadoop-yarn-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-timeline-pluginstorage/src/main/java" />
+          <root url="file://$MODULE_DIR$/../hadoop-3.3.5-src/hadoop-yarn-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-timeline-pluginstorage/src/test/java" />
+          <root url="file://$MODULE_DIR$/../hadoop-3.3.5-src/hadoop-yarn-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-timelineservice-documentstore/src/main/java" />
+          <root url="file://$MODULE_DIR$/../hadoop-3.3.5-src/hadoop-yarn-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-timelineservice-documentstore/src/test/java" />
+          <root url="file://$MODULE_DIR$/../hadoop-3.3.5-src/hadoop-yarn-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-timelineservice-hbase-tests/src/test/java" />
+          <root url="file://$MODULE_DIR$/../hadoop-3.3.5-src/hadoop-yarn-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-timelineservice-hbase/hadoop-yarn-server-timelineservice-hbase-client/src/main/java" />
+          <root url="file://$MODULE_DIR$/../hadoop-3.3.5-src/hadoop-yarn-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-timelineservice-hbase/hadoop-yarn-server-timelineservice-hbase-client/src/test/java" />
+          <root url="file://$MODULE_DIR$/../hadoop-3.3.5-src/hadoop-yarn-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-timelineservice-hbase/hadoop-yarn-server-timelineservice-hbase-common/src/main/java" />
+          <root url="file://$MODULE_DIR$/../hadoop-3.3.5-src/hadoop-yarn-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-timelineservice-hbase/hadoop-yarn-server-timelineservice-hbase-common/src/test/java" />
+          <root url="file://$MODULE_DIR$/../hadoop-3.3.5-src/hadoop-yarn-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-timelineservice-hbase/hadoop-yarn-server-timelineservice-hbase-server/hadoop-yarn-server-timelineservice-hbase-server-1/src/main/java" />
+          <root url="file://$MODULE_DIR$/../hadoop-3.3.5-src/hadoop-yarn-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-timelineservice-hbase/hadoop-yarn-server-timelineservice-hbase-server/hadoop-yarn-server-timelineservice-hbase-server-2/src/main/java" />
+          <root url="file://$MODULE_DIR$/../hadoop-3.3.5-src/hadoop-yarn-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-timelineservice/src/main/java" />
+          <root url="file://$MODULE_DIR$/../hadoop-3.3.5-src/hadoop-yarn-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-timelineservice/src/test/java" />
+          <root url="file://$MODULE_DIR$/../hadoop-3.3.5-src/hadoop-yarn-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-web-proxy/src/main/java" />
+          <root url="file://$MODULE_DIR$/../hadoop-3.3.5-src/hadoop-yarn-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-web-proxy/src/test/java" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+  </component>
+</module>
