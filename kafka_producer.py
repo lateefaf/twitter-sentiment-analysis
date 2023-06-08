@@ -20,3 +20,8 @@ api = tweepy.API(auth)
 search_query = 'your_search_query'
 tweets = api.search(q=search_query, count=10)  # Fetch 10 tweets
 
+#Publish the fetched tweets to Kafka topics
+topic = 'your_topic'
+for tweet in tweets:
+    tweet_data = tweet.text.encode('utf-8')
+    producer.send(topic, value=tweet_data)
