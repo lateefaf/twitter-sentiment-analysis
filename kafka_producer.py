@@ -26,4 +26,5 @@ tweets = api.search_tweets(q=search_query, count=10)  # Fetch 10 tweets
 topic = 'politics'
 for tweet in tweets:
     tweet_data = tweet.text.encode('utf-8')
-    producer.send(topic, value=tweet_data)
+    kafkaproducer.send(topic, value=tweet_data)
+    kafkaproducer.flush()
