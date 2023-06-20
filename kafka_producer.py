@@ -1,9 +1,9 @@
 from kafka import KafkaProducer
 import tweepy
 import config
+
 # Configure the Kafka producer
-bootstrap_servers = config.bootstrap_servers
-kafkaproducer = KafkaProducer(bootstrap_servers=bootstrap_servers)
+kafkaproducer = KafkaProducer(bootstrap_servers=config.bootstrap_servers)
 
 # Set the API keys and access tokens as environment variables or directly pass them to the producer.
 api_key = config.api_key
