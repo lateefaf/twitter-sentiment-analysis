@@ -1,4 +1,4 @@
-from kafka import KafkaProducer, producer
+from kafka import KafkaProducer
 import tweepy
 import config
 # Configure the Kafka producer
