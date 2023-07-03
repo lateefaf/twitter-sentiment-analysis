@@ -1,4 +1,5 @@
 from kafka import KafkaProducer
+from kafka import KafkaConsumer
 import tweepy
 import config
 
@@ -20,11 +21,21 @@ api = tweepy.API(auth)
 
 # Use the Twitter API to fetch tweets based on specific search criteria
 search_query = 'us politics'
-tweets = api.search_tweets(q=search_query, count=10)  # Fetch 10 tweets
+tweet_count = 2
+try:
+    tweets = api.search_tweets(q=search_query, count=tweet_count)
+except Exception as e:
+    print(f"Error fetching tweets: {e}")
+    tweets = []
 
 # Publish the fetched tweets to Kafka topics
 topic = 'politics'
+
 for tweet in tweets:
-    tweet_data = tweet.text.encode('utf-8')
+    tweet_data = str(tweet).encode('utf-8')
+    print("\nFetched tweet:", tweet_data)
     kafkaproducer.send(topic, value=tweet_data)
-    kafkaproducer.flush()
+    kafkaproducer.flush(timeout=10)
+
+kafkaproducer.close(timeout=5)
+
